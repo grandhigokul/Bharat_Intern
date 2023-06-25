@@ -7,7 +7,6 @@ This repository contains the code and documentation for my IoT internship tasks.
 - [Task 1:Smart parking system](SmartParking)
 - [Task 2: Air pollution monitoring system](Air_pollution_monitoring_system)
 - [Task 3: Health monitoring system](Health_Monitoring_System)
-- ...
 
 ## Task Descriptions
 
