@@ -5,8 +5,8 @@ This repository contains the code and documentation for my IoT internship tasks.
 ## Table of Contents
 
 - [Task 1:Smart parking system](SmartParking)
-- [Task 2: Air pollution monitoring system](./task2)
-- [Task 3: Health monitoring system](./task3)
+- [Task 2: Air pollution monitoring system](Air_pollution_monitoring_system)
+- [Task 3: Health monitoring system](Health_Monitoring_System)
 - ...
 
 ## Task Descriptions
@@ -22,13 +22,13 @@ Description: IOT-based car parking management system help in efficient parking s
 
 Description: The system consists of air sensors that sense the presence of harmful gases and compounds in the air Arduino code and components used.
 
-- Code: [Link to code](./task2/code/)
+- Code: [Link to code](Air_pollution_monitoring_system)
 - Documentation: [Link to documentation](./task2/documentation/)
 
 ### Task 3: Health monitoring system:
 
 Description: This system allows users to keep track of their body vitals like blood pressure, sugar level, and heartbeat and remotely send the data to healthcare professionals
-- Code: [Link to code](./task3/code/)
+- Code: [Link to code](Health_Monitoring_System)
 - Documentation: [Link to documentation](./task3/documentation/)
 
 
